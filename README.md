@@ -2,7 +2,7 @@
 
 Welcome to my coding world! I'm an enthusiastic Front-end web developer with a passion for technology.
 
-<a href="[https://linkedin.com/in/shreelaxmikamath](https://www.linkedin.com/in/shreelaxmi-kamath-283711283/)" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/shreelaxmi-kamath-283711283/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 
