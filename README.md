@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Anuswar R Rao</h1>
+<h1 align="center">Hi 👋, I'm Shreelaxmi Kamath</h1>
 
 Welcome to my coding world! I'm an enthusiastic front-end web developer with a passion for technology.
 Here are some ideas to get you started:
