@@ -2,8 +2,6 @@
 
 Welcome to my coding world! I'm an enthusiastic Front-end web developer with a passion for technology.
 
-<!-- Social and visit count badges -->
-[![](https://visitcount.itsvg.in/api?id=Anuswar&icon=0&color=0)](https://visitcount.itsvg.in)
 <a href="https://linkedin.com/in/shreelaxmikamath" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
