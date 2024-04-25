@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreelaxmi Kamath</h1>
-<img align="right" alt="Coding" width="400"  src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" />
+<img align="right" alt="Coding" width="350"  src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" />
 <br /><br />
 Welcome to my coding world! I'm an enthusiastic Front-end web developer with a passion for technology.
 <br /><br />
