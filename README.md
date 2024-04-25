@@ -2,7 +2,7 @@
 
 Welcome to my coding world! I'm an enthusiastic Front-end web developer with a passion for technology.
 
-<img align="right" alt="Coding" width="350" style="position:relative; Margin-bottom:15rem;" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" />
+<img align="right" alt="Coding" width="350" style="margin-top: -5rem" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" />
 <br />
 <a href="https://www.linkedin.com/in/shreelaxmi-kamath-283711283/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge&color=0891b2&labelColor=1c1917" />
