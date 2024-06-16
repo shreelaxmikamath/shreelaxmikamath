@@ -8,6 +8,7 @@ Welcome to my coding world! I'm an enthusiastic Front-end web developer with a p
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 
+* 👩🏻‍💻 I'm currently working on **Flutter Prega App**
 * 🌱 I’m currently learning **Full-stack Web Development**
 * 💬 Ask me about **web development**
 * 📫 How to reach me [shreelaxmi.k111@gmail.com](mailto:shreelaxmi.k111@gmail.com)
