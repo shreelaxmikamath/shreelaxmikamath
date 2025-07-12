@@ -7,8 +7,8 @@ Welcome to my coding world! I'm an enthusiastic Front-end web developer with a p
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 
-* 👩🏻‍💻 Currently pursuing M.Tech in **Computer Science (Data Science)** at MIT Manipal
-* 🌱 Expanding my skills in **Full-Stack Web Development and Data Science**
+* 👩🏻‍💻 Currently pursuing M.Tech in **Computer Science (Data Science)**
+* 🌱 Expanding my skills in **FullStack Web Development and Data Science**
 * 💬 Feel free to connect regarding **web development, data analytics, or collaborative tech initiatives**
 * 📫 How to reach me [shreelaxmi.k111@gmail.com](mailto:shreelaxmi.k111@gmail.com)
 * 🤝 Open to professional collaboration on impactful projects
