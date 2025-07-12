@@ -8,7 +8,7 @@ Welcome to my coding world! I'm an enthusiastic Front-end web developer with a p
 </a>
 
 * 👩🏻‍💻 Currently pursuing M.Tech in **Computer Science (Data Science)**
-* 🌱 Expanding my skills in **FullStack Web Development and Data Science**
+* 🌱 Building skills in **FullStack Web Development and Data Science**
 * 💬 Feel free to connect regarding **web development, data analytics, or collaborative tech initiatives**
 * 📫 How to reach me [shreelaxmi.k111@gmail.com](mailto:shreelaxmi.k111@gmail.com)
 * 🤝 Open to professional collaboration on impactful projects
